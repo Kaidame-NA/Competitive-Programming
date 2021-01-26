@@ -4,4 +4,4 @@ project(Competitive_Programming)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Competitive_Programming
-        "SPOJ/FCTRL - Factorial/main.cpp")
+        "SPOJ/FCTRL2 - Small factorials/main.cpp")
