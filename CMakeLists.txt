@@ -4,4 +4,4 @@ project(Competitive_Programming)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Competitive_Programming
-        "SPOJ/TEST - Life, the Universe, and Everything/main.cpp")
+        "SPOJ/PRIME1 - Prime Generator/main.cpp")
