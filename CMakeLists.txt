@@ -4,4 +4,4 @@ project(Competitive_Programming)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Competitive_Programming
-        "SPOJ/PRIME1 - Prime Generator/main.cpp")
+        "SPOJ/ADDREV - Adding Reversed Numbers/main.cpp")
