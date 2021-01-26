@@ -4,4 +4,4 @@ project(Competitive_Programming)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Competitive_Programming
-        "SPOJ/ADDREV - Adding Reversed Numbers/main.cpp")
+        "SPOJ/FCTRL - Factorial/main.cpp")
