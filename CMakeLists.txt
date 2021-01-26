@@ -4,4 +4,4 @@ project(Competitive_Programming)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Competitive_Programming
-        "SPOJ/SMPWOW - Wow/main.cpp")
+        "SPOJ/TEST - Life, the Universe, and Everything/main.cpp")
